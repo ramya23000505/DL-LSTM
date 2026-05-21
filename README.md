@@ -11,6 +11,8 @@ The objective of this project is to develop a Deep Learning-based Named Entity R
 The system will take annotated text data as input, preprocess it into suitable numerical representations (such as word embeddings), and train an LSTM model to perform sequence labeling. The performance of the model will be evaluated based on metrics such as accuracy, precision, recall, and F1-score.
 
 The developed model aims to improve entity recognition performance by leveraging the sequential learning capability of LSTMs and handling long-range dependencies in text.
+
+
 <img width="373" height="731" alt="image" src="https://github.com/user-attachments/assets/357567a4-82b8-4a6e-bbc6-c3ce145efbef" />
 
 
